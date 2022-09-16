@@ -22,7 +22,7 @@
         "yargs": "^4.6.0"
     },
     "dependencies": {
-        "bootstrap": "^3.4.0",
+        "bootstrap": "^3.4.1",
         "bootstrap-sass": "^3.4.0",
         "bootstrap-sass-loader": "^1.0.10",
         "jquery": "^1.12.4",

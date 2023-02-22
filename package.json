@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "bootstrap": "^3.4.0",
-        "bootstrap-sass": "^3.4.0",
+        "bootstrap-sass": "^3.4.1",
         "bootstrap-sass-loader": "^1.0.10",
         "jquery": "^1.12.4",
         "videojs": "^1.0.0"
